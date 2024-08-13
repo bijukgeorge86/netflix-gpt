@@ -28,6 +28,24 @@ then add below in index.css
 
 # Login Form
 
-# Sign Up For
+# Sign Up Form
 
-# Formik library for React Validation
+# Formik library for React Validation (Not Used)
+
+# useRef Hook
+
+# Setup Firebase and then run below command in project
+
+npm install firebase
+
+Before using firebase login please install the below command
+npm install -g firebase-tools
+
+then after setting up in firebase we have to use command below
+firebase login
+firebase init
+
+to deploy use command
+firebase deploy
+
+# Setup Redux store using Redux Toolkit
