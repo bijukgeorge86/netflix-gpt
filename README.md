@@ -49,3 +49,9 @@ to deploy use command
 firebase deploy
 
 # Setup Redux store using Redux Toolkit
+
+npm i -D @reduxjs/toolkit
+npm i react-redux
+
+When loading a store and we are accessing the store and if store is null we use return as below example and this is called early return
+if (!movies) return;

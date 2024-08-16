@@ -13,6 +13,21 @@ Impement Sign In User API
 Created Redux Store with userSlice
 Implemented Signout
 Update Profile
+Fetch from TMDB Movies
+Bug Fixes - Sign Up user display name and profile picture.
+Bug Fix - if the user is not logged in Redirect to login page and vice versa
+Unsubscribed to the onAuthStateChanged callback
+Add hardcoded values to the constants file
+Register TMDB API & create an app & get access token
+Get data from TMDB now playing movies list API
+Custom Hook for nowPlayMovies
+Create Movie Slice
+Update the store with Movies data
+Planning for Main Container and Secondary Container
+Fetch Data for Trailer Video
+Update Store with Trailer Vide Data
+Embeded the Youtube Video and make it autoplay and mute
+Tailwind Classes to make Main Container look awesomone
 
 # Create React APP
 
@@ -26,4 +41,4 @@ Wrirint 'rafce' in js generates a boilerplate
 
 rafce means Reacr Arrow Function Component Export
 
-<!-- Episode 14 Remaining Time 01:26:32-->
+<!-- Episode 15 Remaining Time 01:05:30-->
