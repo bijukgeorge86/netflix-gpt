@@ -14,7 +14,7 @@ Created Redux Store with userSlice
 Implemented Signout
 Update Profile
 Fetch from TMDB Movies
-Bug Fixes - Sign Up user display name and profile picture.
+Bug Fix - Sign Up user display name and profile picture.
 Bug Fix - if the user is not logged in Redirect to login page and vice versa
 Unsubscribed to the onAuthStateChanged callback
 Add hardcoded values to the constants file
@@ -28,6 +28,7 @@ Fetch Data for Trailer Video
 Update Store with Trailer Vide Data
 Embeded the Youtube Video and make it autoplay and mute
 Tailwind Classes to make Main Container look awesomone
+Build Secondary Component
 
 # Create React APP
 
@@ -41,4 +42,4 @@ Wrirint 'rafce' in js generates a boilerplate
 
 rafce means Reacr Arrow Function Component Export
 
-<!-- Episode 15 Remaining Time 01:05:30-->
+<!-- Episode 15 Remaining Time 00:13:42-->
