@@ -37,7 +37,9 @@ usePopularMovies Cutom Hook
 GPT Search Page
 GPT Search Bar
 (Bonus)Multilingual Feature in our App
-Integrate GPT API's()
+Integrate GPT API's()mmmmmhhh
+
+m
 
 # Create React APP
 
@@ -51,4 +53,4 @@ Wrirint 'rafce' in js generates a boilerplate
 
 rafce means Reacr Arrow Function Component Export
 
-<!-- Episode 15 Remaining Time 02:51:29-->
+<!-- Episode 15 Remaining Time 02:40:11-->

@@ -11,8 +11,7 @@ export const API_OPTIONS = {
     method: "GET",
     headers: {
         accept: "application/json",
-        Authorization:
-            "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI2NWEzOGIzMTVkMGI0MjU1NmVjMTAzZGQ4MWZmMzJhZCIsIm5iZiI6MTcyMzYxNzQ0NS43MTk0OTcsInN1YiI6IjY2YmM0ZTY0MWQyYTJhZjY4YWUxMTNmZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.SsEhQyzrgTnXL-vTP-cCTQttN2E7acoA7q2oKgPlk18",
+        Authorization: "Bearer " + process.env.REACT_APP_TMDB_KEY,
     },
 };
 
@@ -26,6 +25,11 @@ export const SUPPORTED_LANGUAGES = [
     { identifier: "spanish", name: "Spanish" },
     { identifier: "thai", name: "Thai" },
 ];
+/*
+export const OPENAI_KEY =
+    "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"; */
+
+export const OPENAI_KEY = process.env.REACT_APP_OPENAI_KEY;
 
 /*export const API_OPTIONS = {
     method: "GET",
@@ -33,4 +37,6 @@ export const SUPPORTED_LANGUAGES = [
         accept: "application/json",
         Authorization: "Bearer " + process.env.REACT_APP_TMDB_KEY,
     },
-}; */
+}; 
+funny india retro movies
+*/

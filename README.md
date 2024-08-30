@@ -55,3 +55,7 @@ npm i react-redux
 
 When loading a store and we are accessing the store and if store is null we use return as below example and this is called early return
 if (!movies) return;
+
+# install openai npm library
+
+npm install --save openai
