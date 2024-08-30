@@ -29,6 +29,15 @@ Update Store with Trailer Vide Data
 Embeded the Youtube Video and make it autoplay and mute
 Tailwind Classes to make Main Container look awesomone
 Build Secondary Component
+Build Movie List
+Build Movie Card
+TMDB Image CDNURL
+Mage the Browse Page Amazing with Tailwind CSS
+usePopularMovies Cutom Hook
+GPT Search Page
+GPT Search Bar
+(Bonus)Multilingual Feature in our App
+Integrate GPT API's()
 
 # Create React APP
 
@@ -42,4 +51,4 @@ Wrirint 'rafce' in js generates a boilerplate
 
 rafce means Reacr Arrow Function Component Export
 
-<!-- Episode 15 Remaining Time 00:13:42-->
+<!-- Episode 15 Remaining Time 02:51:29-->

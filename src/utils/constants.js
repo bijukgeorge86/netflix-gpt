@@ -18,6 +18,15 @@ export const API_OPTIONS = {
 
 export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w780/";
 
+export const SUPPORTED_LANGUAGES = [
+    { identifier: "en", name: "English" },
+    { identifier: "hindi", name: "Hindi" },
+    { identifier: "malayalam", name: "Malayalam" },
+    { identifier: "norweigen", name: "norweigen" },
+    { identifier: "spanish", name: "Spanish" },
+    { identifier: "thai", name: "Thai" },
+];
+
 /*export const API_OPTIONS = {
     method: "GET",
     headers: {
